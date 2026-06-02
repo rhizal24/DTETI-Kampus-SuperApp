@@ -13,11 +13,11 @@ Tambahkan ide Anda sebagai satu blok entri baru.
 
 Format & Contoh Pengajuan Ide Fitur:
 
-* **Nama Fitur:** Project Makan Bergizi Gratis [Nama Fitur yang diusulkan]
-* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk mendapatkan makanan bergizi yang masih segar secara gratis setiap hari kerja di kampus. [Deskripsi Singkat]
-* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI [Contoh lain: Dosen, Staf, Alumni]
-* **Value Proposition:** Meningkatkan kesehatan mahasiswa dan mengurangi tingkat kekerasan. [Contoh lain: Mempermudah akses informasi, Meningkatkan kolaborasi antar mahasiswa]
-* **Diajukan oleh:** 123456
+* **Nama Fitur:** ReminDTETI
+* **Deskripsi Singkat:** Fitur ini merupakan salah satu fitur yang bertujuan untuk membantu mengingatkan segala tugas / pekerjaan yang telah ditugaskan dengan deadline tertentu, dan menggunakan progress tracker.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Meningkatkan produktivitas Mahasiswa, karena dapat membantu menyelesaikan tugas secara terukur. 
+* **Diajukan oleh:** 514719
 
 ## Kategori Ide Fitur
 
@@ -25,25 +25,13 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
+ReminDTETI adalah SuperApp yang dirancang untuk kebutuhan pengingat segala tugas/pekerjaan dengan progress terukur. User dapat menambahkan tugas secara langsung dengan menginputkan detail tugas mencakup (Judul tugas, Mata Kuliah, dan Priority) dan deadline yang diberikan. Serta, user dapat mengupdate progress tugas satu per-satu mereka, sehingga ini memudahkan user untuk menentukan skala Prioritas tugas mereka. Tidak hanya itu, ReminDTETI juga bisa melakukan Scheduling terhadap suatu kegiatan, hal ini membantu juga dalam memangement waktu.
 
+Dengan begitu, produktivitas Mahasiswa S1 & S2 DTETI dapat lebih meningkat berkat bantuan SuperApp ini, karena dapat membanut Mahasiswanya dalam memanagement waktu dan skala prioritas berdasarkan list tugas dan kegiatan mereka. 
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
-### B. Navigasi & Informasi Kampus 🗺️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### C. Kehidupan Sosial & Komunitas Mahasiswa 🤝
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
-
-### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
-
+Fitur AI dimana, AI merekomendasikan tugas atau kegiatan yang paling terdekat dengan melakukan trigger pada notifikasi WhatsApp atau Telegram, sehingga User dapat mengetahui dan  tidak perlu melakukan cross check lagi ke dalam SuperApp ini.
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
